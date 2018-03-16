@@ -1,0 +1,47 @@
+@import url('https://use.fontawesome.com/releases/v5.0.8/css/all.css');
+@import url('https://fonts.googleapis.com/earlyaccess/nicomoji.css');
+
+.bb, .pirooon{
+  width: 48px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 16px;
+  transition: .3s;
+}
+.bb:hover, .pirooon:hover{
+  color: #fff;
+}
+.bb{
+  border: 2px solid #25628f;
+  color: #25628f;
+}
+.bb:hover{
+  background-color: #25628f;
+}
+.pirooon{
+  border: 2px solid #ff3838;
+  color: #ff3838;
+}
+.pirooon:hover{
+  background-color: #ff3838;
+}
+body{
+  margin: 10px;
+  font-family: "Nico Moji" ;
+}
+h1{
+  font-size: 120px;
+  color: #ff6c5f;
+  margin: 0;
+}
+h2{
+  font-size: 32px;
+  color: #4fa3db;
+  margin: 0;
+}
+/*
+.fa-times{
+  color: #ff3838;
+}
+*/
